@@ -1,0 +1,21 @@
+MAILFROM: <jeffay@cs.unc.edu>
+MAIL FROM <jeffay@cs.unc.edu>
+RCPT TO : < bob@cs.unc.edu>
+MAIL      FROM: <jeffay @cs.unc.edu>
+MAIL FROM: <jeffay@cs.unc.edu>
+RCPT TO: < bob@cs.unc.edu
+MAILFROM: <jeffay @cs.unc.edu>
+MAIL FROM: <pass@cs.unc.edu>
+RCPT   TO:   <pass_again@cs.unc.edu>
+MAIL FROM: <incorrect@order.com>
+MAIL FROM: <pass@cs.unc.edu>
+RCPT   TO:   <pass_again@cs.unc.edu>
+DATA  e
+MAIL FROM: <pass@cs.unc.edu>
+RCPT   TO:   <pass_again@cs.unc.edu>
+DaTA  e
+MAIL FROM: <pass@cs.unc.edu>
+DATA
+RCPT   TO:   <pass_again@cs.unc.edu>
+MAIL FROM: <pass@cs.unc.edu>
+XDATA

@@ -1,0 +1,36 @@
+MAIL FROM: <jeffay@cs.unc.edu>
+RCPT TO: <bob@cs.unc.edu>
+RCPT TO: <alice@cs.unc.edu>
+DATA   
+Hey Bob, do you really think we should use SMTP as a class
+project in COMP 431 this year? The smart students are going to
+figure out automated ways to use this project to send
+panonymous SPAM to the world!
+.
+MAIL FROM: <csabato@cs.unc.edu>    
+RCPT TO: <jeffay@cs.unc.edu>
+RCPT TO: <alice@cs.unc.edu>
+DATA 
+Hey you two!
+Debugging these programs really doesn't get any less
+tedious douse it?
+Have a good weekend
+.
+MAIL FROM: <alyssa@cs.unc.edu>   
+RCPT TO: <kmp@cs.unc.edu>
+RCPT TO: <kris@cs.unc.edu>
+DATA 
+Testing a dud exit command
+Let's hope it works.
+.     
+If you're reading this it did.
+ .
+If you're reading this it worked again.
+Bye for real now.
+.
+MAIL FROM: <heather@cs.unc.edu>   
+RCPT TO: <sarah@cs.unc.edu>
+RCPT TO: <kayla@cs.unc.edu>
+RCPT TO: <taylor@cs.unc.edu>
+DATA 
+.

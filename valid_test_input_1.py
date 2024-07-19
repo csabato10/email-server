@@ -1,0 +1,21 @@
+# Honor Pledge: I will neither give nor receive aid on this assessment.
+
+import sys
+sys.stdout.write('MAIL FROM:<jeffay@cs.unc.edu>\n')
+sys.stdout.write("MAIL FROM:<jeffay@cs.unc.edu>  \n")
+sys.stdout.write("MAIL FROM:<jeffay@cs.unc.edu> \n")
+sys.stdout.write("MAIL FROM: <jeffay@cs.unc.edu>\n")
+sys.stdout.write("MAIL FROM:<jeffay@cs.unc.edu>\n")
+sys.stdout.write("MAIL FROM: <jeffay@cs.unc.edu>                    \n")
+sys.stdout.write("MAIL              FROM:<jeffay@cs.unc.edu> \n")
+sys.stdout.write("MAIL   FROM:           <jeffay@cs.unc.edu> \n")
+sys.stdout.write("MAIL        FROM:         <jeffay@cs.unc.edu> \n")
+sys.stdout.write("MAIL FROM: <jeffay@cs.unc.edu>\n")
+sys.stdout.write("MAIL FROM: <jeffay@cs.unc.edu>\n")
+sys.stdout.write("MAIL FROM: <jeffay@cs.unc.edu>\n")
+sys.stdout.write('MAIL FROM: <jeffay@unc.ed3>\n')
+sys.stdout.write('MAIL FROM: <jeffay@u4c.ed3>\n')
+sys.stdout.write("MAIL FROM:<jeffay@cs.unc.edu>  \n")
+sys.stdout.write("MAIL FROM:<jeffay@cs.unc.edu> \n")
+sys.stdout.write("MAIL FROM:<jeffay@cs.unc.edu> \nMAIL FROM: <jeffay@cs.unc.edu>   \n")
+sys.stdout.write("MAIL FROM:<jeffay@cs.unc.edu>\nMAIL FROM: <jeffay@cs.unc.edu>\n")
